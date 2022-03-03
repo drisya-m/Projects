@@ -1,2 +1,2 @@
 # Projects
-Repository of projects involving Python programming
+Repository of projects in Python programming
