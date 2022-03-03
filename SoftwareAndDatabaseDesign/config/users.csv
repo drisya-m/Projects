@@ -1,0 +1,3 @@
+admin,admin@example.com,admin,[{'DT001':'r'},{'DH001':'rw'}]
+user_1,user_1@example.com,default,[{'DT004':'rw'},{'DH005':'r'}]
+user_2,user_2@example.com,default,[{'DT001':'rw'}]
